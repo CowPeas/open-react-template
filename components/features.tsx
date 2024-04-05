@@ -6,8 +6,8 @@ export default function Features() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">The majority our customers do not understand their workflows.</h2>
-            <p className="text-xl text-gray-400">We present SORAH AI. </p>
+            <h2 className="h2 mb-4">Automate Your Content Generation Process</h2>
+            <p className="text-xl text-gray-400">Introducing SORAH AI - Your Content Automation Generation Agent.</p>
           </div>
 
           {/* Items */}
@@ -20,8 +20,8 @@ export default function Features() {
                 <path className="stroke-current text-purple-100" d="M30 39.313l-4.18 2.197L27 34.628l-5-4.874 6.91-1.004L32 22.49l3.09 6.26L42 29.754l-3 2.924" strokeLinecap="square" strokeWidth="2" fill="none" fillRule="evenodd" />
                 <path className="stroke-current text-purple-300" d="M43 42h-9M43 37h-9" strokeLinecap="square" strokeWidth="2" />
               </svg>
-              <h4 className="h4 mb-2">Image-to-video</h4>
-              <p className="text-lg text-gray-400 text-center">Turn your selfies into instant music videos</p>
+              <h4 className="h4 mb-2">Image-to-Video</h4>
+              <p className="text-lg text-gray-400 text-center">Transform your images into captivating video content.</p>
             </div>
 
             {/* 2nd item */}
@@ -32,7 +32,7 @@ export default function Features() {
                 <path className="stroke-current text-purple-300" d="M26 28h12M26 32h12M26 36h5" strokeWidth="2" strokeLinecap="square" />
               </svg>
               <h4 className="h4 mb-2">Text-to-Image</h4>
-              <p className="text-lg text-gray-400 text-center"> Turn your ideas into visually appealing scenes</p>
+              <p className="text-lg text-gray-400 text-center">Bring your text-based ideas to life with stunning visuals.</p>
             </div>
 
             {/* 3rd item */}
@@ -45,8 +45,8 @@ export default function Features() {
                   <circle className="stroke-current text-purple-100" cx="11" cy="11" r="11" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Text-to-music</h4>
-              <p className="text-lg text-gray-400 text-center">Turn your poems into hit songs.</p>
+              <h4 className="h4 mb-2">Text-to-Music</h4>
+              <p className="text-lg text-gray-400 text-center">Turn your text compositions into melodious tunes.</p>
             </div>
 
             {/* 4th item */}
@@ -58,8 +58,8 @@ export default function Features() {
                   <circle className="stroke-current text-purple-300" cx="13" cy="9" r="3" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Video</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2">Video Production</h4>
+              <p className="text-lg text-gray-400 text-center">Effortlessly create professional-grade videos with AI-powered tools.</p>
             </div>
 
             {/* 5th item */}
@@ -71,8 +71,8 @@ export default function Features() {
                   <path className="stroke-current text-purple-300" d="M22 30h4v12h-4z" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Reels</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2">Social Media Reels</h4>
+              <p className="text-lg text-gray-400 text-center">Create engaging short videos optimized for social media platforms.</p>
             </div>
 
             {/* 6th item */}
@@ -85,8 +85,8 @@ export default function Features() {
                   <path className="stroke-current text-purple-100" d="M8.86 1.18C3.8 1.988 0 5.6 0 10c0 5 4.9 9 11 9a10.55 10.55 0 003.1-.4L20 21l-.6-5.2a9.125 9.125 0 001.991-2.948" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2">AI-Powered Instant Features</h4>
+              <p className="text-lg text-gray-400 text-center">Access a range of instant AI-powered features for seamless content creation.</p>
             </div>
 
           </div>
